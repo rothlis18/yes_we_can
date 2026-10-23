@@ -1,0 +1,15 @@
+{
+    "date": "22.10.26",
+    "question": "Why has the phrase 'Yes We Can' from Obama's campaign evolved to be perceived as 'Yes We Can destroy the white west' in recent years?",
+    "owner_payable": "none",
+    "owner_payable_type": "none",
+    "price_sats": 10000,
+    "locked": false,
+    "sovereign": false,
+    "double_count": 0,
+    "battle_active": false,
+    "last_bid_at": 0,
+    "last_paid_txid": null,
+    "updated_at": 1792628173,
+    "created_at": 1792628173
+}
